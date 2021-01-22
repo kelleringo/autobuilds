@@ -11,3 +11,5 @@ Build it:
 
 Run it:
 `docker container run --detach -p 80:80 linux_tweet_app`
+
+[![Build Status](https://travis-ci.com/kelleringo/autobuilds.svg?branch=master)](https://travis-ci.com/kelleringo/autobuilds)
